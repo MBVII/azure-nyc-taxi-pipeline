@@ -52,8 +52,8 @@ Power BI Dashboard
 
 ## Screenshots
 
-![ADF Pipeline](ADF pipeline.png)
-![Synapse Notebook](Synapse Notebook.png)
+![ADF Pipeline](ADF_pipeline.png)
+![Synapse Notebook](Synapse_Notebook.png)
 ![Dashboard](PowerBI.png)
 
 ## How to Run
